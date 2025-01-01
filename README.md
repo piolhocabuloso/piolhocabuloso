@@ -25,5 +25,8 @@
 
 [![Blog](https://img.shields.io/website?.com&stryle=for-the-badge&url=https://sujeitoprogramador.com/
 )](https://homepage72357.netlify.app)
+
+[![Blog](https://img.shields.io/website?.com&stryle=for-the-badge&url=https://sujeitoprogramador.com/
+)](https://homepage72357.netlify.app)
 <br><br>
 ### Programadores e artistas são os únicos profissionais que tem como hobby a própria profissão.
