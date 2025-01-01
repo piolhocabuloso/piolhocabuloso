@@ -3,7 +3,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/slo._.004/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://www.instagram.com/slo._.004/)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/grbbfujhyruhg9rujfiore/)
-
 [![TIKTOK](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white
 )](https://www.tiktok.com/@slo.004?is_from_webapp=1&sender_device=pc)
 
