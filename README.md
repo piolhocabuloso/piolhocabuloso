@@ -17,7 +17,3 @@
 <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <div/>
-<br>
-  
-<br><br>
-### Programadores e artistas são os únicos profissionais que tem como hobby a própria profissão.
